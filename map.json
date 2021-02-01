@@ -58,42 +58,8 @@
                  "value":"..\/Lyon\/lyon.json"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "draworder":"topdown",
-         "id":15,
-         "name":"jitsi",
-         "objects":[
-                {
-                 "height":284,
-                 "id":1,
-                 "name":"",
-                 "properties":[
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"3.06"
-                        }],
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":185.333333333333,
-                 "x":962.666666666667,
-                 "y":770.666666666667
-                }],
-         "opacity":1,
-         "properties":[
-                {
-                 "name":"\"jitsiRoom\"",
-                 "type":"string",
-                 "value":"3.06"
-                }],
-         "type":"objectgroup",
-         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -116,7 +82,7 @@
          "name":"top",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -128,7 +94,7 @@
          "name":"book",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -149,7 +115,24 @@
          "draworder":"topdown",
          "id":3,
          "name":"floorLayer",
-         "objects":[],
+         "objects":[
+                {
+                 "height":289.333333333333,
+                 "id":4,
+                 "name":"Jitsi",
+                 "properties":[
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"Test"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":192,
+                 "x":957.333333333333,
+                 "y":766.666666666667
+                }],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -169,13 +152,13 @@
                  "value":3
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
         }],
- "nextlayerid":16,
- "nextobjectid":4,
+ "nextlayerid":17,
+ "nextobjectid":5,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
