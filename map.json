@@ -69,21 +69,21 @@
          "name":"jitsi",
          "objects":[
                 {
-                 "height":96,
+                 "height":284,
                  "id":1,
                  "name":"",
                  "properties":[
                         {
-                         "name":"jitsiRoom",
+                         "name":"\"jitsiRoom\"",
                          "type":"string",
                          "value":"3.06"
                         }],
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":89.3333333333333,
-                 "x":1058.66666666667,
-                 "y":797.333333333333
+                 "width":185.333333333333,
+                 "x":962.666666666667,
+                 "y":770.666666666667
                 }],
          "opacity":1,
          "properties":[
