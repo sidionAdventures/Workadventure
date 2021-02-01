@@ -109,7 +109,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.sidion.de\/"
+                 "value":"https:\/\/workadventu.re\/map-building\/special-zones"
                 }],
          "type":"tilelayer",
          "visible":true,
