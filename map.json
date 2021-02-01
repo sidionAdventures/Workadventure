@@ -74,7 +74,7 @@
                  "name":"",
                  "properties":[
                         {
-                         "name":" \"jitsiRoom\"",
+                         "name":"jitsiRoom",
                          "type":"string",
                          "value":"3.06"
                         }],
