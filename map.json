@@ -91,7 +91,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"<iframe width=\"560\" height=\"315\" src=\"https:\/\/www.youtube.com\/embed\/RMtH-6P6uuI\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>"
+                 "value":"https:\/\/www.youtube.com\/embed\/RMtH-6P6uuI"
                 }],
          "type":"tilelayer",
          "visible":true,
